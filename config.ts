@@ -4,15 +4,15 @@ require('dotenv').config();
 
 const config: ConfigType = {
     "bot": {
-        "clientID": process.env.CLIENT_ID ?? "1245583548258451516", // The client ID of the bot
-        "guildID": "1263907687146590228", // The guild for the game to be played in
+        "clientID": process.env.CLIENT_ID ?? "put something here i want to make a fork of the wolf of ayup so i can use it in any server i want cuz im false banned from ayup public and i want to trade stocks", // The client ID of the bot
+        "guildID": "jdhihfjf", // The guild for the game to be played in
         channels: {
-            "info": "1263909750278586511",
-            "log": "1263909821753852047"
+            "info": "dbdhf",
+            "log": "udhud7"
         },
         messages: {
-            "priceBoard": "1266613165941325834",
-            "leaderboard": "1266613130356850790"
+            "priceBoard": "sdddd",
+            "leaderboard": "sbdjbff"
         },
         newsAmountTruncate: 6,
         newsLengthTruncate: 40,
@@ -21,8 +21,8 @@ const config: ConfigType = {
         useEphemeralPurchase: true,
         useEphemeralWire: true,
         maxProfileHoldingsDisplay: 15,
-        baseRoleId: "1267307202927132794",
-        modRoleId: "1268324135768166433",
+        baseRoleId: "a",
+        modRoleId: "a",
         topShareholdersAmount: 3
     },
     "theme": {
